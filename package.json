@@ -1,0 +1,8 @@
+{
+    "name": "the-robot",
+    "version": "0.0.1",
+    "description": "the robot test version.",
+    "main": "index.js", 
+    "keyword": "the robot",
+    "author": "myself"
+}
