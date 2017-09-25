@@ -4,7 +4,7 @@ let redline = require('readline')
 let http = require('http')
 // 定义一些默认参数
 const HOST_NAME = "www.tuling123.com",
-      API_KEY = '732e65a87485416bbb171abf865b0e1c'
+      API_KEY = '732e65a87485416bbb171abf865b0e1c'  // 去网站申请   免费的有次数限制
 const RESPONSE_TYPE = {
     TEXT: 100000,
     LINK: 200000,
